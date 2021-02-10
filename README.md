@@ -62,3 +62,36 @@ def fun()
 [gmail]
 ("vk037524@gmail.com")
 [college]("https://collegedunia.com")
+## git commands
+- git init
+   - krishna
+- git status
+   - it tells the current status of git
+- git branch
+   - it will tells current working branch
+- git and filename
+   - adds files into staging area
+- git remote 
+- git remove -v
+   - it tells you that remotename along with the repositary link
+- git clone "url"
+   - copies the repositary files from github into local system
+- git remote and add remotename "repolink"
+- git log
+- git log --oneline
+   - it will gives you the committed history in one line
+- git revert filename
+   - it will undo the changes
+- git reset filename
+   - it reset filename 
+- git rm filename
+   - it removes the filename
+- git config user.name "username"
+   - to set your username and email
+- git config user.email "user email"
+- git commit -m "message"
+   - to commit your changes along with the message
+- git push remotename branchname
+   - To send the files from your local system to github server
+- git pull remotename branchname
+   - to receive github files from repository to local sysytems
