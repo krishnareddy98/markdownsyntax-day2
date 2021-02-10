@@ -1,0 +1,2 @@
+print("loved")
+print("krishna")
