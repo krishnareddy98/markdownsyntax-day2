@@ -72,6 +72,7 @@ def fun()
 - git and filename
    - adds files into staging area
 - git remote 
+   - gives the current remote in repository
 - git remove -v
    - it tells you that remotename along with the repositary link
 - git clone "url"
