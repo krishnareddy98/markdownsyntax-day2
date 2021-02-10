@@ -48,3 +48,9 @@ def fun():
 `
 fun()
 `
+## Task
+```
+def fun()
+   printf("hello world")
+```
+
