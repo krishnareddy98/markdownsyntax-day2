@@ -56,3 +56,9 @@ def fun()
 ## Links
 [google]
 ("https://www.google.com")
+
+## add gmail link
+## add college link
+[gmail]
+("vk037524@gmail.com")
+[college]("https://collegedunia.com")
