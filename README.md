@@ -39,3 +39,12 @@ __*sample text*__
 - eee
      + eeeA
      + eeeB
+## Code
+`
+def fun():
+   print("welcome to github workshop by apssdc")
+`
+## function calling
+`
+fun()
+`
