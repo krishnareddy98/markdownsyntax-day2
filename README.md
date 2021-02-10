@@ -98,3 +98,5 @@ def fun()
    - to receive github files from repository to local sysytems
 ## Inserting Images
 ![nature](https://github.com/krishnareddy98/markdownsyntax-day2/blob/master/images.jpg)
+## Inserting videos
+.[![master](https://img.youtube.com/vi/=o4ox_7oLabg/0.jpg)](https://www.youtube.com/watch?v=o4ox_7oLabg)
