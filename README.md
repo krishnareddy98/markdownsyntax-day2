@@ -96,3 +96,5 @@ def fun()
    - To send the files from your local system to github server
 - git pull remotename branchname
    - to receive github files from repository to local sysytems
+## Inserting Images
+![nature](https://github.com/krishnareddy98/markdownsyntax-day2/blob/master/images.jpg)
