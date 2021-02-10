@@ -34,8 +34,8 @@ __*sample text*__
 5. mech
 ## Unordered list
 - ece
-      * eceA
-      * eceB
+     * eceA
+     * eceB
 - eee
-      + eeeA
-      + eeeB
+     + eeeA
+     + eeeB
