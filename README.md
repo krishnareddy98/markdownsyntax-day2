@@ -99,4 +99,4 @@ def fun()
 ## Inserting Images
 ![nature](https://github.com/krishnareddy98/markdownsyntax-day2/blob/master/images.jpg)
 ## Inserting videos
-.[![golusu](https://img.youtube.com/vi/=o4ox_7oLabg/0.jpg)](https://www.youtube.com/watch?v=o4ox_7oLabg)
+.[![palasa](https://img.youtube.com/vi/=o4ox_7oLabg/0.jpg)](https://www.youtube.com/watch?v=o4ox_7oLabg)
